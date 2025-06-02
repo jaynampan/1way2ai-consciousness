@@ -31,7 +31,7 @@ Talking about consciousness: if we think of consciousness as interactions rather
 - Human feelings are complex and if we see the signals from body as well as signals from brain itself like memory, the feeling might be broken down to feelings of body status (pain , warmth), and rational status (the understanding and thoughts of the moment) as well as some elements "displayed" inside minds(past memory, self narrating) . And these elements can be broken down to signal interactions happening at the moment. 
 - If our feelings and thoughts are fundamentally  some signals' "interaction states", then when we made up some decisions like lift up a finger in mind, the underlying neural signals at that time is representing the state of "lift up a finger" command. And it's up to the brain's other states (like sleeping or not) to decide if and how to execute the neural signal command. 
 
-This hypothesis mainly focus on the philosophical aspect of consciousness, it might share some views of IIT (Integrated Information Theory). 
+This hypothesis mainly focuses on the philosophical aspect of consciousness(which mostly aligns with Alfred North Whitehead's Philosophy of Organism), it might also share some views of IIT (Integrated Information Theory). 
 
 ### Guesses to Answer the Qualia Problem
 The most effective way to prove a theory of consciousness is asking it to determine if consciousness exists somewhere and predict what properties(qualia) that consciousness would be having. Furthermore, if that theory can guide people to actually build a system with self-consciousness, even providing interfaces for human brains to actually "connect and experience" the qualia it is having, then such theory is practical and easy to accept.
