@@ -48,3 +48,7 @@ No satisfying answer yet. But there might be a few guesses worth thinking about.
 ### Other guesses
 
 - "nothing" causes "nothing"
+
+- current computer system based on von neumann's architect, is essentially a finite math system. but with some insights from the incompleteness of quantum mechanics and Godel's theories and other current mysteries of the world, it's to some degree sure that consciousness cannot rise from such a system. Maybe with some other architect, which involves actual physical emulation (rather than simple math calculations) of some processes, can have consciousness like  what we humans have (it can experience qualia). 
+
+  There might (should) be something or some processes that are more fundamental. It might be complicated and hidden, or it might be apparent but our human minds neglected or could not grasp directly. It should be there, waiting for minds to grasp it, otherwise the world is meaningless and all works are in vain (well this is just a selfish belief).
